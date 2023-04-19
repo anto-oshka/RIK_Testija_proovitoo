@@ -7,6 +7,8 @@ Minimaalselt kuvab lingitud tulemusi (nimetus, hind, sait jne.).
 
 Kasutamine: Pane programm käia ja sisesta toode, mille kohta soovid saada infot.
 
+Kulutatud aeg: umbes 2 tundi
+
 Author: Anton Kolisnetsenko
 Date: 17.04.2023
 """

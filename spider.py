@@ -8,6 +8,8 @@ Alamdomeenid pole skoobis. Ärge tehke koormustesti või DDOSi.
 Tulem võiks olla minimaalselt: spider väljund (Meetod, URL, vastus, content-length ja muu mis tundub mõttekas) +
 Järeldused (Mis said teada tehnoloogiate kohta, mis HTTP päised on üle või puudu ja muud tähelepanekud).
 
+Kulutatud aeg: umbes 1 tund
+
 Author: Anton Kolisnetsenko
 Date: 09.04.2023
 """
